@@ -36,12 +36,19 @@ ul {
     color: rgb(255, 255, 255);
 }
 
- #logo #black{
+#logo #black{
 	font-size:40px;
+	color: rgb(0, 0, 0);
+}
+
+#logo #WHITE{
+	font-size:40px;
+	color: rgb(255, 255, 255);
 }
 
 #logo #metamorph{
 	font-size:10px;
+	color: rgb(255, 255, 255);
 }
 
 #home {
@@ -128,4 +135,15 @@ ul {
 	padding: 10px 0 0 0;
 	font-size:15px;
 	color: rgb(255, 255, 255);
+}
+
+#left #L1 #Lmane {
+	height: 25px;
+	width: 100%;
+	padding: 0;
+	margin: 0 0 15px 0;
+	font-size: 15px;
+	padding: 10px 0 0 0;
+	color: rgb(0, 0, 0);
+
 }
