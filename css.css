@@ -39,6 +39,7 @@ ul {
 #logo #black{
 	font-size:40px;
 	color: rgb(0, 0, 0);
+	margin: 0 0 0 15px;
 }
 
 #logo #WHITE{
@@ -49,6 +50,7 @@ ul {
 #logo #metamorph{
 	font-size:10px;
 	color: rgb(255, 255, 255);
+	margin: 0 0 0 15px;
 }
 
 #home {
